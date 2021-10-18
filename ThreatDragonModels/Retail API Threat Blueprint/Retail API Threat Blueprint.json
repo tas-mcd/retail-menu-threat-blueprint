@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Retail API Threat Blueprint",
+    "owner": "Tas Damen",
+    "description": "Retail Menu API is a privately hosted API that serves market and restaurant scoped menu items for application and McD user."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Michael D. Groot"
+  }
+}
